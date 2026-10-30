@@ -1,0 +1,12 @@
+{
+  "name": "Named Pets",
+  "version": "0.1.0",
+  "contactEmailAddress": "plugins@4doranges.dev",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": false,
+  "requiredDependencies": {
+    "prettyui": "prettyui"
+  },
+  "optionalDependencies": {},
+  "optionalPermissions": {}
+}
